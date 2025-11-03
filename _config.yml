@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: My E-Portfolio
+email: abmegersa@gmail.com
+author: AWorku
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,12 +40,18 @@ author: GitHub User
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am currently pursuing a Master’s degree in Data Science, where I am developing advanced knowledge and practical expertise in data analytics, machine learning, and programming. My academic work focuses on deriving meaningful insights from data and applying computational methods to solve complex, real-world problems.
+Alongside my studies, I work as a Digital Skills Tutor, supporting learners in developing essential digital competencies, coding proficiency, and confidence in using technology effectively. This role allows me to combine my passion for education with my technical skills to promote digital inclusion and lifelong learning.
+My professional and academic interests include:
+Data Analysis and Visualisation
+Machine Learning and Artificial Intelligence
+Python Programming and Automation
+Educational Technology
+Digital Transformation and Inclusion
+I am committed to continuous learning and to applying data-driven approaches that enhance decision-making, innovation, and accessibility within education and beyond.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
