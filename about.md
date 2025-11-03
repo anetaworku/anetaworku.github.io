@@ -3,6 +3,6 @@ layout: about
 title: About
 ---
 
-## About
+## Welcome to my e-portfolio
 
-Hi, nice to meet you.
+
